@@ -147,6 +147,17 @@
     font-size: .625rem;
 }
 
+#detailButton {
+    width: 30%;
+    padding: .25 .5rem;
+    margin: .25 0;
+    color: #fff;
+    background-color: #6c79db;
+    border: none;
+    border-radius: 1rem;
+    font-size: .625rem;
+}
+
 @media screen and (min-width: 380px) {
     .pokemons {
         grid-template-columns: 1fr;
